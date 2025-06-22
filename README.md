@@ -1,4 +1,5 @@
 HOW TO USE:
+
 1.download n_exp&n_log file
 because i use my own exponent function 
 
